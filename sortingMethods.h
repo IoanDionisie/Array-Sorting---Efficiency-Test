@@ -11,6 +11,7 @@ void swap(int* a, int* b)
 }
 
 
+
 void bubbleSort(int *array, int n) {
 	int i, j, aux = 0;
 	for (i = 0; i < n; ++i) {
